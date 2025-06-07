@@ -10,7 +10,7 @@ export const DATA = {
   description: "Fullstack developer with the passion for aviation.",
   summary:
     "I'm a full-stack developer, having started my degree in Computer Science in 2021. Currently, [I'm working on a project called Silk Route](#projects) which is a multi tenant e-commerce platform that allows anyone to sell their product and services.",
-  avatarUrl: "/profile.png",
+  avatarUrl: "",
   skills: [
     "Next.js",
     "React",
